@@ -14,6 +14,7 @@ export const StyledStartButton = styled.div`
   text-transform: uppercase;
   font-size: 1rem;
   outline: none;
+  user-select: none;
   cursor: pointer;
   &:hover {
     background-color: #777;
