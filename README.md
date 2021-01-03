@@ -2,13 +2,13 @@
 
 # React Tetris :space_invader:
 
-## The Tetris game made with React
+**The Tetris game made with React**
 
-##### Because... Why not? :eyes:
+###### Because... Why not? :eyes:
 
 <br>
 
-<img src="./src/assets/tetris.gif" width="400"/>
+<img src="./src/assets/tetris.gif" width="500"/>
 
 </div>
 
